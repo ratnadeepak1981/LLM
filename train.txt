@@ -1,0 +1,65 @@
+﻿NESAMANI LLM is a small language model learning project.
+A language model learns patterns from text by predicting the next character or token.
+Training adjusts the model parameters to reduce prediction error.
+The model receives a sequence of tokens and predicts what token may come next.
+A tokenizer converts text into representations that a model can process.
+A dataset provides examples from which the model learns.
+The training process repeats many times and gradually improves the model predictions.
+A neural network contains parameters that are adjusted during training.
+The Transformer architecture uses attention to learn relationships between tokens.
+Self attention helps the model use information from different positions in a sequence.
+An embedding represents each token as a vector of numbers.
+The loss function measures the difference between predictions and expected targets.
+The optimizer updates model parameters using gradients calculated by backpropagation.
+Training data and validation data serve different purposes.
+Validation helps us estimate how well the model performs on unseen examples.
+A checkpoint stores model parameters and configuration for later use.
+Text generation begins with a prompt and predicts subsequent tokens.
+A small model is useful for learning how training and generation work.
+Python provides the programming logic for building and testing this model.
+PyTorch provides tensors, automatic differentiation, and neural network operations.
+NESAMANI LLM will be developed incrementally with careful testing.
+People use computers to solve many different problems.
+A computer program follows instructions written by a programmer.
+A programmer can use Python to build a small application.
+An application receives information, processes it, and produces a result.
+Testing helps programmers discover errors before software is released.
+A database can store information about customers and products.
+A customer places an order when they want to buy a product.
+A supplier provides products to a business.
+A warehouse receives goods and stores them until they are needed.
+A stock balance shows how much of a product is available.
+A business checks its stock before ordering more products.
+A purchase order tells a supplier which products the business wants to buy.
+A goods receipt records the products received from a supplier.
+A sales order records the products requested by a customer.
+A delivery note records the goods sent to a customer.
+Good software should protect information and prevent unauthorised access.
+A user signs in to an application with valid login credentials.
+Different users may have different permissions.
+A backup provides another copy of important information.
+A developer should test changes before using them in a production system.
+
+What is a purchase order?
+A purchase order records the products a business requests from a supplier.
+
+What is a stock balance?
+A stock balance shows the quantity of a product currently available.
+
+Why do programmers test software?
+Programmers test software to find errors and check that it behaves as expected.
+
+What is a backup?
+A backup is an additional copy of data that can help recover lost information.
+
+How can a business manage its products?
+A business can record product receipts, sales, stock movements, and current quantities.
+
+Learning to build a language model takes time.
+The model learns from examples supplied during training.
+More varied examples can help the model learn more varied character patterns.
+The quality of the training data affects the patterns the model can learn.
+A validation dataset helps evaluate predictions on text not used for training.
+A prompt provides the starting text for generating a continuation.
+The generated text may contain mistakes, especially when the model is small.
+Developers can compare results and improve their experiments step by step.

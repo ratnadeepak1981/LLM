@@ -1,0 +1,21 @@
+﻿NESAMANI LLM is a small language model learning project.
+A language model learns patterns from text by predicting the next character or token.
+Training adjusts the model parameters to reduce prediction error.
+The model receives a sequence of tokens and predicts what token may come next.
+A tokenizer converts text into representations that a model can process.
+A dataset provides examples from which the model learns.
+The training process repeats many times and gradually improves the model predictions.
+A neural network contains parameters that are adjusted during training.
+The Transformer architecture uses attention to learn relationships between tokens.
+Self attention helps the model use information from different positions in a sequence.
+An embedding represents each token as a vector of numbers.
+The loss function measures the difference between predictions and expected targets.
+The optimizer updates model parameters using gradients calculated by backpropagation.
+Training data and validation data serve different purposes.
+Validation helps us estimate how well the model performs on unseen examples.
+A checkpoint stores model parameters and configuration for later use.
+Text generation begins with a prompt and predicts subsequent tokens.
+A small model is useful for learning how training and generation work.
+Python provides the programming logic for building and testing this model.
+PyTorch provides tensors, automatic differentiation, and neural network operations.
+NESAMANI LLM will be developed incrementally with careful testing.
