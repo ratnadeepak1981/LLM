@@ -63,3 +63,40 @@ A validation dataset helps evaluate predictions on text not used for training.
 A prompt provides the starting text for generating a continuation.
 The generated text may contain mistakes, especially when the model is small.
 Developers can compare results and improve their experiments step by step.
+
+
+What is a tokenizer?
+A tokenizer converts text into units that a language model can process. These units may be characters, words, or subwords.
+
+What is an embedding?
+An embedding represents a token as a list of numerical values that a neural network can learn.
+
+What is attention in a Transformer?
+Attention helps a Transformer use information from relevant tokens in the input sequence when processing text.
+
+What is a training dataset?
+A training dataset contains examples used to adjust a model's parameters during learning.
+
+What is a validation dataset?
+A validation dataset helps evaluate a model using examples that are not used to update its parameters.
+
+What is a loss function?
+A loss function measures the difference between a model's predictions and the expected targets.
+
+What is an optimizer?
+An optimizer updates model parameters using information from the loss and its gradients.
+
+What is next-character prediction?
+Next-character prediction trains a model to estimate which character is likely to follow a sequence of characters.
+
+What is a purchase order?
+A purchase order records the products a business requests from a supplier.
+
+What is a goods receipt?
+A goods receipt records products received from a supplier and helps update inventory records.
+
+What is a sales order?
+A sales order records the products a customer requests from a business.
+
+What is a stock transfer?
+A stock transfer records the movement of inventory from one storage location to another.
